@@ -1,0 +1,13 @@
+body {
+    background-color: #262730;
+}
+
+h1, h2, h3, h4, h5, h6, p, li {
+    color: #8B77BA;
+    font-family: 'Nunito', sans-serif;
+}
+
+#title {
+    text-align: center;
+    font-size: 50px;
+}
